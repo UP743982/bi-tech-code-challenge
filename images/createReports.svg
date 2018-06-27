@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 322 241" style="enable-background:new 0 0 322 241;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DEF9F4;}
+	.st1{fill:#28487C;}
+	.st2{fill:#76DEFF;}
+	.st3{fill:#F4F8F7;}
+	.st4{fill:#FFDA78;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#E8B665;}
+</style>
+<g id="create-reports-icon">
+	<path class="st0" d="M271.2,100.2c0,0,18-63-27-63s-243,0-207,81s30.5,91,171,81C334.2,190.2,271.2,154.2,271.2,100.2z"/>
+	<g>
+		<g>
+			<path class="st1" d="M285.8,212.8H58.6c-1.9,0-3.4-1.5-3.4-3.4v-10.4c0-1.9,1.5-3.4,3.4-3.4h227.2c1.9,0,3.4,1.5,3.4,3.4v10.4
+				C289.2,211.3,287.7,212.8,285.8,212.8z"/>
+		</g>
+		<g>
+			<path class="st1" d="M262.4,195.4h-187V80c0-5.7,4.6-10.4,10.4-10.4H252c5.7,0,10.4,4.6,10.4,10.4V195.4z"/>
+		</g>
+		<g>
+			<path class="st2" d="M250,89.1c0-2-1.7-3.7-3.7-3.7H91.5c-2,0-3.7,1.7-3.7,3.7v8.6H250V89.1z"/>
+		</g>
+		<g>
+			<rect x="87.9" y="97.7" class="st3" width="162.1" height="96.8"/>
+		</g>
+		<g>
+			<path class="st4" d="M194.3,201.4h-42.8c-1.2,0-2.1-1-2.1-2.1v-1.8c0-1.2,1-2.1,2.1-2.1h42.8c1.2,0,2.1,1,2.1,2.1v1.8
+				C196.4,200.5,195.5,201.4,194.3,201.4z"/>
+		</g>
+		<g>
+			<g>
+				
+					<ellipse transform="matrix(0.9598 -0.2806 0.2806 0.9598 -21.6708 31.7778)" class="st5" cx="100.1" cy="91.6" rx="3.2" ry="3.2"/>
+			</g>
+			<g>
+				<circle class="st5" cx="114" cy="91.6" r="3.2"/>
+			</g>
+			<g>
+				<circle class="st5" cx="127.9" cy="91.6" r="3.2"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="XMLID_65_">
+			<g>
+				<path class="st4" d="M194.8,28.2H108c-2.4,0-4.3,1.9-4.3,4.3v150.4c0,2.4,1.9,4.3,4.3,4.3h122.7c2.4,0,4.3-1.9,4.3-4.3V68.3
+					L194.8,28.2z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st6" d="M194.8,64c0,2.4,1.9,4.3,4.3,4.3H235l-40.1-40.1V64z"/>
+		</g>
+		<g>
+			<g id="XMLID_6_">
+				<rect x="120.6" y="93.1" class="st5" width="97.5" height="3"/>
+			</g>
+			<g id="XMLID_5_">
+				<rect x="120.6" y="104.2" class="st5" width="97.5" height="3"/>
+			</g>
+			<g id="XMLID_4_">
+				<rect x="120.6" y="114.6" class="st5" width="97.5" height="3"/>
+			</g>
+			<g id="XMLID_3_">
+				<rect x="120.6" y="125.7" class="st5" width="97.5" height="3"/>
+			</g>
+			<g id="XMLID_2_">
+				<rect x="120.6" y="136.1" class="st5" width="97.5" height="3"/>
+			</g>
+			<g id="XMLID_1_">
+				<rect x="120.6" y="146.5" class="st5" width="97.5" height="3"/>
+			</g>
+		</g>
+		<g id="XMLID_83_">
+			<rect x="127.2" y="66.7" class="st5" width="53.6" height="6.5"/>
+		</g>
+	</g>
+</g>
+</svg>
